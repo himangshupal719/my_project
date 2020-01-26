@@ -1,2 +1,4 @@
 *.xlsx
 !NewExcel.xlsx
+*.ext
+*.zip

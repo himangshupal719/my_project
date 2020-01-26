@@ -1,1 +1,7 @@
-this is new file 
+Hi.
+This is new file. Need to store in remote repository. 
+Created on Jan26.
+
+Hey. It is nice day. Let's commit now. 
+
+Can it show the differences?
