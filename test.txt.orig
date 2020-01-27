@@ -5,10 +5,10 @@ again edits
 'new addition' 
 
 
-
+<<<<<<< HEAD
 test test
 
 made more changes.
-
+=======
 test test"branch test first commit" 
-
+>>>>>>> testing

@@ -7,3 +7,8 @@ Hey. It is nice day. Let's commit now.
 Can it show the differences?"git commit more option" 
 git commit -v
 "checkout option test"
+
+
+git branching additions in this file. 
+More lines ...
+lines ...
